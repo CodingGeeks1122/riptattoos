@@ -29,7 +29,7 @@ export const InfoDataTwo = {
 
 export const InfoDataThree = {
     heading: 'Wolf Tattoo',
-    paragraphTwo: '',
+    paragraphOne: '',
     paragraphTwo: '',
     buttonLabel: 'Contact',
     image: ImageThree,
