@@ -39,7 +39,7 @@ export const InfoDataThree = {
 
 export const InfoDataFour = {
     heading: 'Furry Friend Alex',
-    paragraphTwo: '',
+    paragraphOne: '',
     paragraphTwo: '',
     buttonLabel: 'Contact',
     image: ImageFour,
@@ -49,7 +49,7 @@ export const InfoDataFour = {
 
 export const InfoDataFive = {
     heading: 'Medusa Tattoo',
-    paragraphTwo: '',
+    paragraphOne: '',
     paragraphTwo: '',
     buttonLabel: 'Contact',
     image: ImageFive,
@@ -59,7 +59,7 @@ export const InfoDataFive = {
 
 export const InfoDataSix = {
     heading: 'Customised Tattoo',
-    paragraphTwo: '',
+    paragraphOne: '',
     paragraphTwo: '',
     buttonLabel: 'Contact',
     image: ImageSix,
@@ -69,7 +69,7 @@ export const InfoDataSix = {
 
 export const InfoDataSeven = {
     heading: 'Geometric Lion Tattoo',
-    paragraphTwo: '',
+    paragraphOne: '',
     paragraphTwo: '',
     buttonLabel: 'Contact',
     image: ImageSeven,
@@ -79,7 +79,7 @@ export const InfoDataSeven = {
 
 export const InfoDataEight = {
     heading: 'Lord Shiva Tattoo',
-    paragraphTwo: '',
+    paragraphOne: '',
     paragraphTwo: '',
     buttonLabel: 'Contact',
     image: ImageEight,
