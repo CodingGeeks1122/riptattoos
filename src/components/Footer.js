@@ -1,6 +1,6 @@
 import SimpleReactFooter from "simple-react-footer";
 
-const description = "Rip Tattoos in Dwarka Sector 12, Delhi listed under Tattoo Artists offering services like Colour Tattoo, Offer Home Services and much more.                           Address: 3rd Floor, Malik Buildcon Plaza-1, Pkt 5, Pocket 5, Sector 12 Dwarka, Dwarka, New Delhi, Delhi 110075";
+const description = "Rip Tattoos stands for Rage Ink Plague where we customise your design as per latest trend. We are on this bussiness since 2009 whre we are guided by Great Artist Abhijeet Dhaila. As we were located in Lajpat nagar before has been shut down due to covid crisis so we have looking forward to Dwarka , gurgaon to give them best services by us.                          Address: 3rd Floor, Manish Metro Plaza-1, Pkt 5, Sector 12 Dwarka, New Delhi, Delhi 110075";
 const title = "RIP Tattoos";
 const columns = [
 {

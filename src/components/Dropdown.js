@@ -55,7 +55,6 @@ const DropdownLink = styled(Link)`
     list-style: none;
     color: #fff;
     cursor: pointer;
-    transition: 0.2s ease-in-out;
 
     &:hover {
         color: #000d1a;

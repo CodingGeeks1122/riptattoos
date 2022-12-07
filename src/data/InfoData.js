@@ -11,7 +11,7 @@ export const InfoData = {
     heading: 'Japanese warrior Tatto',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageOne,
     reverse: false,
     delay: 100
@@ -21,7 +21,7 @@ export const InfoDataTwo = {
     heading: 'Anubis-Egyptian God',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageTwo,
     reverse: false,
     delay: 100
@@ -31,7 +31,7 @@ export const InfoDataThree = {
     heading: 'Wolf Tattoo',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageThree,
     reverse: false,
     delay: 100
@@ -41,7 +41,7 @@ export const InfoDataFour = {
     heading: 'Furry Friend Alex',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageFour,
     reverse: false,
     delay: 50
@@ -51,7 +51,7 @@ export const InfoDataFive = {
     heading: 'Medusa Tattoo',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageFive,
     reverse: false,
     delay: 50
@@ -61,7 +61,7 @@ export const InfoDataSix = {
     heading: 'Customised Tattoo',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageSix,
     reverse: false,
     delay: 50
@@ -71,7 +71,7 @@ export const InfoDataSeven = {
     heading: 'Geometric Lion Tattoo',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageSeven,
     reverse: false,
     delay: 50
@@ -81,7 +81,7 @@ export const InfoDataEight = {
     heading: 'Lord Shiva Tattoo',
     paragraphOne: '',
     paragraphTwo: '',
-    buttonLabel: 'Contact',
+    buttonLabel: '',
     image: ImageEight,
     reverse: false,
     delay: 50

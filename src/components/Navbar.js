@@ -31,6 +31,9 @@ const Logo = styled(Link)`
     ${NavLink}
     color: #fff;
     font-style: italic;
+    color: yellow;
+    font-size: 30px;
+    font-weight: bolder;
 `;
 
 const MenuBars = styled(FaBars)`
@@ -96,7 +99,7 @@ const Navbar = ({toggle}) => {
                 ))}
             </NavMenu>
             <NavBtn>
-                <a class="mailto" color='red' href="mailto:airndelight@gmail.com">Contact Us</a>
+                <a class="mailto" color='red' href="mailto:riptattoos09@gmail.com">Contact Us</a>
             </NavBtn>
         </Nav>
     )

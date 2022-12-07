@@ -7,10 +7,11 @@ import {IoArrowForward, IoArrowBack} from 'react-icons/io5';
 
 
 const HeroSection = styled.section`
-    height: 100vh;
+    height: 80vh;
     max-height: 1100px;
     position: relative;
     overflow: hidden;
+    background-color: black;
 `;
 
 const HeroWrapper = styled.div`
@@ -57,10 +58,10 @@ const HeroSlider = styled.div`
 `;
 const HeroImage = styled.img`
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
+    top: 0vw;
+    left: 20vw;
+    width: 60vw;
+    height: 80vh;
     object-fit: cover;
 `;
 const HeroContent = styled.div`
@@ -172,7 +173,7 @@ const Hero = ( {slides} ) => {
                                 <HeroImage src={slide.image} alt={slide.alt} />
                                 <HeroContent>
                                     <h1>{slide.title}</h1>
-                                    <p>{slide.price}</p>
+                                    <p style={{fontSize:"20px", color:"yellow"}}>{slide.price}</p>
                                     <Button to={slide.path} primary="true" css={`max-width: 160px;`}>
                                         {slide.label}
                                         <Arrow />
