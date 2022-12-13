@@ -3,7 +3,6 @@ import styled from 'styled-components';
 import {Link} from 'react-router-dom';
 import { FaTimes } from 'react-icons/fa';
 import { menuData } from '../data/MenuData';
-import { Button } from './Button';
 
 const DropdownContainer = styled.div`
     position: fixed;
