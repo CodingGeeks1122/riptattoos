@@ -98,9 +98,11 @@ const Navbar = ({toggle}) => {
                     </NavMenuLinks>
                 ))}
             </NavMenu>
-            <NavBtn>
+            {/* <NavBtn>
                 <a class="mailto" color='red' href="mailto:riptattoos09@gmail.com">Contact Us</a>
-            </NavBtn>
+            </NavBtn> */}
+            <NavBtn> <p style={{fontSize:'20px', color:"yellow "}}>Contact Us &#xf095; 8527915558</p></NavBtn>
+           
         </Nav>
     )
 }

@@ -9,7 +9,7 @@ import ImageSeven from '../images/seven.jpg';
 export const SliderData = [
     {
         title: '',
-        price: 'Contact Us on 8527915558',
+        // //  price: 'Contact Us on 8527915558',
         path: '/homes',
         label: 'View Home',
         image: ImageOne,
@@ -17,7 +17,7 @@ export const SliderData = [
     },
     {
         title: '',
-        price: 'Contact Us on 8527915558',
+        // //  price: 'Contact Us on 8527915558',
         path: '/homes',
         label: 'View Home',
         image: ImageTwo,
@@ -25,7 +25,7 @@ export const SliderData = [
     },
     {
         title: '',
-        price: 'Contact Us on 8527915558',
+        //  //  price: 'Contact Us on 8527915558',
         path: '/homes',
         label: 'View Home',
         image: ImageThree,
@@ -33,7 +33,7 @@ export const SliderData = [
     },
     {
         title: '',
-        price: 'Contact Us on 8527915558',
+        //  price: 'Contact Us on 8527915558',
         path: '/homes',
         label: 'View Home',
         image: ImageFour,
@@ -41,7 +41,7 @@ export const SliderData = [
     },
     {
         title: '',
-        price: 'Contact Us on 8527915558',
+        //  price: 'Contact Us on 8527915558',
         path: '/homes',
         label: 'View Home',
         image: ImageFive,
@@ -49,7 +49,7 @@ export const SliderData = [
     },
     {
         title: '',
-        price: 'Contact Us on 8527915558',
+        //  price: 'Contact Us on 8527915558',
         path: '/homes',
         label: 'View Home',
         image: ImageSix,
@@ -57,7 +57,7 @@ export const SliderData = [
     },
     {
         title: '',
-        price: 'Contact Us on 8527915558',
+        //  price: 'Contact Us on 8527915558',
         path: '/homes',
         label: 'View Home',
         image: ImageSeven,
